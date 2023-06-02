@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "deposit": "Wire Transfer",
+      "frequency": "Every Other Week",
+      "transaction": "60-days-rollover",
+      "id": 3
+    },
+    {
+      "deposit": "Account Transfer",
+      "frequency": "Monthly",
+      "transaction": "60-days-rollover",
+      "id": 4
+    }
+  ]
+}
